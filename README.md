@@ -53,10 +53,13 @@ Data Scientist with **3+ years of experience** developing predictive models and 
 
 ### **Alphonso AI**, backed by **Shipley Center for Innovation** | Founding ML Engineer
 *Potsdam, NY | Jul 2025 – Present*
-- **Search & Retrieval**: Engineered a hybrid candidate retrieval system combining **BM25 keyword search** with **Vector Embeddings**; fine-tuned embedding models to domain-specific data, improving search precision by **38%** for top-10 results.
-- **Reranking**: Deployed a **Cross-Encoder reranking step** to filter hallucinations from LLM outputs, ensuring **95%+ relevance** in final recommendations.
-- **Causal Inference**: Developed engagement scoring models using **CausalML** to distinguish true user intent from noise, identifying critical drop-off points in the candidate funnel that guided UI/UX redesigns.
-- **ML Infrastructure**: Built an end-to-end data pipeline on **AWS (S3, Glue)** to automate feature extraction from behavioral logs and implemented drift monitoring via **Grafana** to ensure stability.
+- **Backend Architecture**: Designed a **0→1 Backend Ecosystem** using **FastAPI and PostgreSQL**, orchestrating a scalable microservices bridge between Java-based core services and Python-native ML workloads.
+- **Cost-Efficient Infrastructure**: Deployed and managed production services on **DigitalOcean VPS** to optimize infrastructure overhead; implemented **Docker-based containerization** to ensure environment parity across R&D and production.
+- **Advanced Retrieval (RAG)**: Engineered a **Multi-Model "Text-to-Query" (TTQ)** engine leveraging **Gemini (Vertex AI)** and **DeepSeek APIs** to enable dynamic, prompt-driven semantic search across high-dimensional talent data.
+- **Search Optimization**: Deployed a multi-stage retrieval pipeline utilizing **pgvector for Approximate Nearest Neighbor (ANN)** search and **CUDA-accelerated Cross-Encoders** for high-precision re-ranking (targeting 38% improvement in Precision@N).
+- **Domain-Aware Recommendation**: Developed a sector-specific ranking system using **Vectorized Embeddings**; shifted logic from generic role-matching to domain-expertise alignment, improving candidate-to-company fit.
+- **Generative Team-Composition**: Built a module that translates natural language product descriptions into granular technical requirements and specific candidate matches, bridging the gap for non-technical founders.
+- **System Design & MCP**: Led relational schema normalization, API contract definition, and R&D into **Model Context Protocol (MCP)** for agentic, self-correcting database interactions.
 
 ### **Student Managed Investment Fund, Clarkson University** | Graduate Quantitative Researcher
 *Potsdam, NY | Sep 2024 – Apr 2025*
