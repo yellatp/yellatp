@@ -51,7 +51,7 @@ Data Scientist with **3+ years of experience** developing predictive models and 
 
 ## 💼 Professional Experience
 
-### **Alphonso AI, Shipley Center for Innovation** | Junior Data Scientist
+### **Alphonso AI**, backed by **Shipley Center for Innovation** | Founding ML Engineer
 *Potsdam, NY | Jul 2025 – Present*
 - **Search & Retrieval**: Engineered a hybrid candidate retrieval system combining **BM25 keyword search** with **Vector Embeddings**; fine-tuned embedding models to domain-specific data, improving search precision by **38%** for top-10 results.
 - **Reranking**: Deployed a **Cross-Encoder reranking step** to filter hallucinations from LLM outputs, ensuring **95%+ relevance** in final recommendations.
