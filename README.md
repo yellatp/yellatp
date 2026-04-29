@@ -10,7 +10,7 @@ I am a <b>Data Explorer</b> passionate about diving into every field where data 
   
   <b><font size="3"> Data Scientist   |   ML Engineer   |   Product Analytics </font></b>
   <p>
-    <b> 📍 Location  : </b> Seattle, WA, USA <br/> 
+    <b> 📍 Location  : </b> Austin, TX, USA <br/> 
     <b> 📞 Mobile    : </b> +1 (929) 278-4589  <br/> 
     <b> ✉️ Email     : </b> <a href="mailto:pavan.yellathakota.ds@gmail.com">pavan.yellathakota.ds@gmail.com</a> <br/>
     <b>    Linkedin  : </b> <a href="https://linkedin.com/in/yellatp" target="_blank">https://linkedin.com/in/yellatp</a> <br/>
